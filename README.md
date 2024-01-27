@@ -17,4 +17,4 @@ Description: It enables users to search for weather conditions worldwide and del
 #### Bootstrap [User Interface]
 #### Jquery AJAX [API Requests]
 
-Deployed Link - https://react-weather-app-teal-five.vercel.app/
+Deployed Link - https://react-weatherapp-lakshay.vercel.app/
