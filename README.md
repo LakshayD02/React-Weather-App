@@ -34,7 +34,7 @@ This weather app allows users to search for and view current weather conditions 
 # Clone the repository
 
 # Install dependencies 
-# e.g., npm install or yarn install
+#  npm install or yarn install
 
 # Run the application
-# e.g., npm start or yarn start
+#  npm start or yarn start
